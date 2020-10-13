@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/decentralines/static/css/main.ae3262a7.chunk.css",
-    "main.js": "/decentralines/static/js/main.256ba893.chunk.js",
-    "main.js.map": "/decentralines/static/js/main.256ba893.chunk.js.map",
+    "main.css": "/decentralines/static/css/main.8382cb9c.chunk.css",
+    "main.js": "/decentralines/static/js/main.5f762d7c.chunk.js",
+    "main.js.map": "/decentralines/static/js/main.5f762d7c.chunk.js.map",
     "runtime-main.js": "/decentralines/static/js/runtime-main.360fbfc5.js",
     "runtime-main.js.map": "/decentralines/static/js/runtime-main.360fbfc5.js.map",
     "static/js/2.acadcc5c.chunk.js": "/decentralines/static/js/2.acadcc5c.chunk.js",
     "static/js/2.acadcc5c.chunk.js.map": "/decentralines/static/js/2.acadcc5c.chunk.js.map",
     "index.html": "/decentralines/index.html",
-    "precache-manifest.318f6a16ca6f6fcc7887281a1cbc8094.js": "/decentralines/precache-manifest.318f6a16ca6f6fcc7887281a1cbc8094.js",
+    "precache-manifest.335f9f56a1115b49636d699b237ae925.js": "/decentralines/precache-manifest.335f9f56a1115b49636d699b237ae925.js",
     "service-worker.js": "/decentralines/service-worker.js",
-    "static/css/main.ae3262a7.chunk.css.map": "/decentralines/static/css/main.ae3262a7.chunk.css.map",
+    "static/css/main.8382cb9c.chunk.css.map": "/decentralines/static/css/main.8382cb9c.chunk.css.map",
     "static/js/2.acadcc5c.chunk.js.LICENSE.txt": "/decentralines/static/js/2.acadcc5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.360fbfc5.js",
     "static/js/2.acadcc5c.chunk.js",
-    "static/css/main.ae3262a7.chunk.css",
-    "static/js/main.256ba893.chunk.js"
+    "static/css/main.8382cb9c.chunk.css",
+    "static/js/main.5f762d7c.chunk.js"
   ]
 }
